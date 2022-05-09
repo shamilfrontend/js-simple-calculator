@@ -1,2 +1,3 @@
 # js-simple-calculator
-Простой калькулятор на JavaScript
+
+Demo - https://shamilfrontend.github.io/js-simple-calculator/
